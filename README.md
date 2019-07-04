@@ -2,10 +2,10 @@
 How to make a React component reference to official documents
 
 install enviroment:
-npm install
+## npm install
 
-start the app
-npm start
+start the app:
+## npm start
 
 
 src/App.js is to build a static version
